@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Account</string>
+    <string name="signinpage">Sign in</string>
+    <string name="post_title">Post Title ...</string>
+    <string name="post_description">Post Description ...</string>
+    <string name="submit_text">Submit</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="title_activity_image_viewer">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="add_post">Add Post</string>
+</resources>
